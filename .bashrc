@@ -111,9 +111,9 @@ for file in ~/.{bash_prompt,aliases,functions,path,dockerfunctions,exports,k8s};
 	fi
 done
 unset file
-export EDITOR=vim
+export EDITOR=nano
 echo "*************************************"
-echo "*          WELCOME VEERENDRA        *"
-echo "* `date +"%a %e %b %Y %r"`  *"
+echo "*              WELCOME              *"
+echo "* `date +"%a %e %b %Y %r"`          *"
 echo "*************************************"
 
